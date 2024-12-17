@@ -15,3 +15,4 @@ gen
 
 __pycache__
 .env
+.vercel
